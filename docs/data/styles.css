@@ -237,4 +237,13 @@
   font-weight:400;
   font-style:normal;
 }
+._形状2 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
 textarea, select, input, button { outline: none; }
